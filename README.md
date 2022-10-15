@@ -8,7 +8,7 @@ Vist my [YouTube](https://www.youtube.com/channel/UCIxcP6RZ9zPohsEC-07FN9A)**
 
 Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
 
-[![Linkedin: Hammamfrz](https://img.shields.io/badge/-Hammamfrz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)](https://https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)
+[![Linkedin: Hammamfrz](https://img.shields.io/badge/-Hammamfrz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)](https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)
 [![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
