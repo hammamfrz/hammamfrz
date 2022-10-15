@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/hammamfrz/hammamfrz/blob/bg.png)
+![Banner Image](https://github.com/hammamfrz/hammamfrz/bg.png)
 
 ## Hi there 👋
 
