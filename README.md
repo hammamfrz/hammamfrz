@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am **Hammam Fariz Raharjo** working as **Sr. Software Engineer @ Tech9**. I am an Experienced **Fullstack Developer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PSD to WordPress, PSD to HTML, User Experience, PHP, and WordPress.** Strong engineering professional with a Bachelor of Computer Application focused in UI UX Developer / Front End Developer / Web Designer from Sikkim Manipal University – Distance Education.
+I am **Hammam Fariz Raharjo** studying at **"Veteran" University of National Development Yogyakarta**. I am an Experienced **Backend Developer** with a demonstrated history of working in a couple of projects. 
 
 Vist my [YouTube](https://www.youtube.com/channel/UCIxcP6RZ9zPohsEC-07FN9A)**
 
