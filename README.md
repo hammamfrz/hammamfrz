@@ -12,20 +12,18 @@ Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-r
 [![GitHub Ghazi](https://img.shields.io/github/followers/hammamfrz?label=follow&style=social)](https://github.com/hammamfrz)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIxcP6RZ9zPohsEC-07FN9A?style=social)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIxcP6RZ9zPohsEC-07FN9A?style=social)
-![Instagram Follow](https://img.shields.io/instagram/follow/hammamfrz?style=social)
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ Tech9**
-- 🌱 I’m currently learning **Python - Blockchain**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
+- 🔭 I’m currently studying at **"Veteran" University of National Development Yogyakarta**
+- 🌱 I’m currently learning **Javascript**
+- 👯 I’m looking to collaborate on projects
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/codewithghazi), [Instagram](https://instagram.com/codewithghazi)**
+  [Instagram](https://instagram.com/hammamfrz)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammamfrz&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=gkhan205&show_icons=true&hide_border=true&theme=dark)
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=hammamfrz&show_icons=true&hide_border=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/gkhan205/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/hammamfrz/github-profile-trophy)
