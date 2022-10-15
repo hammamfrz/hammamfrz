@@ -9,10 +9,10 @@ Vist my [YouTube](https://www.youtube.com/channel/UCIxcP6RZ9zPohsEC-07FN9A)**
 Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-react)**, **[CWG React Starter](https://github.com/gkhan205/cwg-react-starter)** & **[Slugifyme](https://www.npmjs.com/package/slugifyme)**
 
 [![Linkedin: Hammamfrz](https://img.shields.io/badge/-Hammamfrz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)](https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/codewithghazi?style=social)
+[![GitHub Ghazi](https://img.shields.io/github/followers/hammamfrz?label=follow&style=social)](https://github.com/hammamfrz)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIxcP6RZ9zPohsEC-07FN9A?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIxcP6RZ9zPohsEC-07FN9A?style=social)
+![Instagram Follow](https://img.shields.io/instagram/follow/hammamfrz?style=social)
 
 ---
 
