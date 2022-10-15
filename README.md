@@ -24,6 +24,4 @@ Author of NPM Package: **[Formify React](https://www.npmjs.com/package/formify-r
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammamfrz&layout=compact&theme=dark&hide_border=true)
 
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=hammamfrz&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gkhan205)](https://github.com/hammamfrz/github-profile-trophy)
+![Hammam's github stats](https://github-readme-stats.vercel.app/api?username=hammamfrz&show_icons=true&hide_border=true&theme=dark)
