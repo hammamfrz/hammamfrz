@@ -2,7 +2,7 @@
 
 # Hi there, I'm Hammam Fariz Raharjo 👋
 
-Performance-driven **Backend Developer** with over 3 years of experience specializing in building scalable systems and RESTful APIs using **NestJS** and **Express.js**. [cite_start]I have a proven track record in migrating legacy systems to microservices and implementing real-time monitoring solutions.
+Performance-driven **Backend Developer** with over 3 years of experience specializing in building scalable systems and RESTful APIs using **NestJS** and **Express.js**. I have a proven track record in migrating legacy systems to microservices and implementing real-time monitoring solutions.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hammam-fariz-raharjo-91489b16a/)
 [![Website](https://img.shields.io/badge/-Portfolio-brightgreen?style=flat-square&logo=vercel&logoColor=white)](https://hammamfrz.tech)
