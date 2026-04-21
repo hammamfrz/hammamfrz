@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/hammamfrz/hammamfrz/blob/main/bg.png)
+![Banner Image](https://github.com/hammamfrz/hammamfrz/blob/main/my-bg.png)
 
 # Hi there, I'm Hammam Fariz Raharjo 👋
 
