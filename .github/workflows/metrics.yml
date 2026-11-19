@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/metrics.yml]
+    paths:
+      - .github/workflows/metrics.yml
+      - .github/scripts/stats-card.sh
 
 concurrency:
   group: metrics
@@ -19,13 +21,22 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Contribution stats (private contributions included as counts)
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/stats.svg
-          base: header, repositories
-          config_timezone: Asia/Jakarta
-          config_octicon: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+      - uses: actions/checkout@v4
+
+      - name: Render stats card
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
+        run: .github/scripts/stats-card.sh
+
+      - name: Commit the card if it changed
+        run: |
+          git add metrics/stats.svg
+          if git diff --cached --quiet; then
+            echo "Stats unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update stats card"
+          git push
