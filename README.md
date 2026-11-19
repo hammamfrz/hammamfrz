@@ -29,8 +29,7 @@ I'm the top code contributor on the K3I platform for Indonesia's national traffi
 | **Practices** | Microservices, DDD, CQRS, outbox pattern, REST / OpenAPI |
 
 ### GitHub stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hammamfrz&layout=compact&theme=dark&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hammamfrz&show_icons=true&hide_border=true&theme=dark)
+![GitHub stats](metrics/stats.svg)
 
 ---
 Based in Jakarta (GMT+7). Open to remote contract work.
