@@ -15,8 +15,8 @@
   </style>
   <rect class="bg" x="0.5" y="0.5" width="339" height="219" rx="8"/>
   <text x="32" y="40" class="title">GitHub activity, last 12 months</text>
-  <text x="32" y="76" class="label">Contributions</text><text x="300" y="76" class="value">1,537</text>
-  <text x="32" y="104" class="label">Commits</text><text x="300" y="104" class="value">1,313</text>
+  <text x="32" y="76" class="label">Contributions</text><text x="300" y="76" class="value">1,545</text>
+  <text x="32" y="104" class="label">Commits</text><text x="300" y="104" class="value">1,306</text>
   <text x="32" y="132" class="label">Pull requests opened</text><text x="300" y="132" class="value">167</text>
   <text x="32" y="160" class="label">Pull requests merged</text><text x="300" y="160" class="value">161</text>
   <text x="32" y="188" class="label">Pull requests reviewed</text><text x="300" y="188" class="value">28</text>
